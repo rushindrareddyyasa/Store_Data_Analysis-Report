@@ -57,4 +57,4 @@ I developed a multi-page Power BI dashboard to analyze **store-level sales data*
 ## 📢 Author
 **Rushindra Reddy**  
 *Aspiring Data Analyst | Power BI | Python | SQL | Data Visualization*  
-[LinkedIn Profile](www.linkedin.com/in/rushindrareddy-yasa-1b554231a)
+[LinkedIn Profile](https://www.linkedin.com/in/rushindrareddy-yasa-1b554231a)
