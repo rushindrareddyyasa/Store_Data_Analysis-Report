@@ -2,80 +2,60 @@
 
 ## 📝 Project Overview
 
-This Power BI project presents a 4-page interactive **Store Sales Dashboard** designed to provide deep insights into sales performance, order trends, profitability, and product-level analytics. The dashboard helps business users monitor performance across time, locations, and products using interactive and user-friendly visuals.
+I developed a multi-page Power BI dashboard to analyze **store-level sales data**, focusing on total orders, profit vs. sales insights, top/bottom product performance, and regional sales distribution. This project enables dynamic exploration of key business metrics using interactive visualizations, helping to drive data-informed decisions.
 
 ---
 
 ## 📁 Project Files
-- `SalesDataAnalysis.pbix` – Power BI report file with 4 detailed pages
-- `page1-overview.png` – Sales Overview Dashboard *(optional)*
-- `page2-top-bottom-analysis.png` – Top/Bottom Product Analysis *(optional)*
-- `page3-trend-comparison.png` – Time-Based Comparison *(optional)*
-- `page4-detailed-table.png` – Tabular Summary *(optional)*
+- `SalesDataAnalysis.pbix` – Power BI Desktop file
+- `Overview.png` – Sales Overview
+- `Top_Bottom_5.png` – Top/Bottom 5 Analysis
+- `Comparision.png` – Time-Based Comparison
+- `TableVisual.png` – Tabular Summary
 
 ---
 
 ## 🔧 Tools & Technologies
 - Power BI Desktop  
-- Power Query for Data Transformation  
+- Power Query  
 - DAX (Data Analysis Expressions)  
-- Excel *(used as data source)*
+- Excel *(data source)*
 
 ---
 
-## 📄 Report Pages
+## 📌 Dashboard Features
 
-### 📌 Page 1: **Sales Overview**
-- Total Orders (KPI Card)
-- Monthly Sales Trend (Line Chart)
-- Profit vs Sales (Scatter Chart)
-- Net Sales by City (Map or Bar Chart)
-
-### 📌 Page 2: **Top & Bottom 5 Performance**
-- Top 5 and Bottom 5 Products by:
-  - Sales
-  - Quantity Sold
-  - Profit
-- Visualized using bar and column charts for quick comparison
-
-### 📌 Page 3: **Performance Over Time**
-- Time-based comparison of:
-  - Sales
-  - Profit
-  - Units Sold
-- Supports identifying trends and seasonal patterns across months/years
-
-### 📌 Page 4: **Detailed Tabular Report**
-- Tabular view of full dataset with:
-  - Filters for regions, categories, or dates
-  - Easy data exploration and export option
+- 📊 **Sales Overview**: Total Orders, Profit vs Sales chart, Net Sales by City, and overall Sales Trend  
+- 🏆 **Top & Bottom 5 Analysis**: Highlights best and worst-performing products by Sales, Quantity, and Profit  
+- 📈 **Comparative Analysis**: Visualizes changes in Sales, Profit, and Units Sold over different time periods  
+- 📋 **Tabular View**: Allows data drill-down using interactive filters and export-ready tables
 
 ---
 
 ## 📈 Key Insights
-- Sales steadily increase over the months with a noticeable Q4 spike
-- Top products significantly outperform bottom 5 in both sales and profitability
-- Profits lag behind sales in some regions, signaling margin issues
-- Tabular view allows users to drill down into individual transactions
+- Profitability and sales trends reveal performance gaps across regions
+- Top products outperform significantly in both volume and revenue
+- Time-based comparison shows consistent growth patterns
+- Tabular view supports easy data validation and detailed analysis
 
 ---
 
 ## 📸 Dashboard Preview
 
-| Page | Description | Preview |
-|------|-------------|---------|
-| Page 1 | Sales Overview | ![Overview](page1-overview.png) |
-| Page 2 | Top & Bottom Analysis | ![TopBottom](page2-top-bottom-analysis.png) |
-| Page 3 | Trend Comparison | ![TrendComparison](page3-trend-comparison.png) |
-| Page 4 | Tabular View | ![Tabular](page4-detailed-table.png) |
+| View | Screenshot |
+|------|------------|
+| Sales Overview | ![Overview](Overview.png) |
+| Top & Bottom 5 Analysis | ![Top & Bottom 5](Top_Bottom_5.png) |
+| Time-Based Comparison | ![Comparision](Comparision.png) |
+| Tabular Summary | ![Table View](TableVisual.png) |
 
 ---
 
 ## 📬 How to Use
-1. Download or clone the repository.
-2. Open the `SalesDataAnalysis.pbix` file in Power BI Desktop.
-3. Navigate through the four report pages to explore various metrics.
-4. Use slicers and filters to perform your own dynamic analysis.
+1. Download or clone the repository
+2. Open the `.pbix` file in Power BI Desktop
+3. Explore visuals using filters and slicers
+4. Use insights for data storytelling or business reporting practice
 
 ---
 
@@ -83,4 +63,3 @@ This Power BI project presents a 4-page interactive **Store Sales Dashboard** de
 **Rushindra Reddy**  
 *Aspiring Data Analyst | Power BI | Python | SQL | Data Visualization*  
 [LinkedIn Profile](https://www.linkedin.com)
-
