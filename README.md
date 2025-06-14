@@ -46,17 +46,6 @@ I developed a multi-page Power BI dashboard to analyze **store-level sales data*
 
 ---
 
-## 📸 Dashboard Preview
-
-| View | Screenshot |
-|------|------------|
-| Sales Overview | ![Overview](Overview.png) |
-| Top & Bottom 5 Analysis | ![Top & Bottom 5](Top_Bottom_5.png) |
-| Time-Based Comparison | ![Comparision](Comparision.png) |
-| Tabular Summary | ![Table View](TableVisual.png) |
-
----
-
 ## 📬 How to Use
 1. Download or clone the repository
 2. Open the `.pbix` file in Power BI Desktop
@@ -68,4 +57,4 @@ I developed a multi-page Power BI dashboard to analyze **store-level sales data*
 ## 📢 Author
 **Rushindra Reddy**  
 *Aspiring Data Analyst | Power BI | Python | SQL | Data Visualization*  
-[LinkedIn Profile](https://www.linkedin.com)
+[LinkedIn Profile](www.linkedin.com/in/rushindrareddy-yasa-1b554231a)
