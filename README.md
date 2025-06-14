@@ -15,6 +15,12 @@ I developed a multi-page Power BI dashboard to analyze **store-level sales data*
 
 ---
 
+## DataSet Used
+
+- <a href="https://github.com/rushindrareddyyasa/Store_Data_Analysis-Report/blob/main/StoreData.xlsx">Dataset</a>
+
+---
+
 ## 🔧 Tools & Technologies
 - Power BI Desktop  
 - Power Query  
